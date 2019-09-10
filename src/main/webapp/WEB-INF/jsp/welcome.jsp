@@ -3,7 +3,7 @@
 
 <img src="<spring:url value="/static/images/pets.png" htmlEscape="true" />" align="right" style="position:relative;right:30px;">
 <h2><fmt:message key="welcome"/></h2>
-<p><b> -- TCS_DEMO5 -- Sep 4 --1 -- </b></p>
+<p><b> -- TCS_DEMO -- Sep 10 --1 -- </b></p>
 <ul>
   <li><a href="<spring:url value="/owners/search" htmlEscape="true" />">Find the dog owners here</a></li>
   <li><a href="<spring:url value="/vets" htmlEscape="true" />">Display all veterinarians by clicking this link</a></li>
